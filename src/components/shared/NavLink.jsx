@@ -20,3 +20,7 @@ const NavLink = ({ href, className, children }) => {
 };
 
 export default NavLink;
+
+
+// ১. usePathname()
+// এটি বর্তমানে ব্যবহারকারী কোন URL-এ আছে, তা বের করে।
